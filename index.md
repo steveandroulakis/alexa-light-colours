@@ -108,9 +108,6 @@ Supported Smarthome Colours
 <h2>Green</h2>
 <div style="height: 70px; width: 150px; text-align:center;background-color: #00ff00; border: 0.1px solid #000000"> </div>
 <br/><br/>
-<h2>Green</h2>
-<div style="height: 70px; width: 150px; text-align:center;background-color: #00ff00; border: 0.1px solid #000000"> </div>
-<br/><br/>
 <h2>Light Goldenrod</h2>
 <div style="height: 70px; width: 150px; text-align:center;background-color: #eedd82; border: 0.1px solid #000000"> </div>
 <br/><br/>
@@ -338,9 +335,6 @@ Supported Smarthome Colours
 <br/><br/>
 <h2>Dark Red</h2>
 <div style="height: 70px; width: 150px; text-align:center;background-color: #840000; border: 0.1px solid #000000"> </div>
-<br/><br/>
-<h2>Maroon</h2>
-<div style="height: 70px; width: 150px; text-align:center;background-color: #800000; border: 0.1px solid #000000"> </div>
 <br/><br/>
 <h2>Maroon</h2>
 <div style="height: 70px; width: 150px; text-align:center;background-color: #800000; border: 0.1px solid #000000"> </div>
