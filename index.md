@@ -1,6 +1,7 @@
 ## Alexa Colours
 
 Supported Smarthome Colours
+<br/><br/>
 
 <h2>White</h2>
 <div style="height: 70px; width: 150px; text-align:center;background-color: #ffffff; border: 0.1px solid #000000"> </div>
