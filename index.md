@@ -1,37 +1,127 @@
-## Welcome to GitHub Pages
+## Alexa Colours
 
-You can use the [editor on GitHub](https://github.com/steveandroulakis/alexa-light-colours/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Supported Smarthome Colours
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/steveandroulakis/alexa-light-colours/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p><strong>Red</strong><br/><img src="http://www.colourlovers.com/img/FF0D01/100/100/RED.png"/></p>
+<p><strong>Crimson</strong><br/><img src="http://www.colourlovers.com/img/7C0600/100/100/maybe_crimson.png"/></p>
+<p><strong>Dark Salmon</strong><br/><img src="http://www.colourlovers.com/img/D23526/100/100/60s_dark_salmon.png"/></p>
+<p><strong>Old Lace</strong><br/><img src="http://www.colourlovers.com/img/86524D/100/100/old_lace.png"/></p>
+<p><strong>Coral</strong><br/><img src="http://www.colourlovers.com/img/FF8667/100/100/Casilda_coral.png"/></p>
+<p><strong>Salmon</strong><br/><img src="http://www.colourlovers.com/img/F55829/100/100/Smoked_Salmon.png"/></p>
+<p><strong>Orange Red</strong><br/><img src="http://www.colourlovers.com/img/BF3B0A/100/100/Heated_Iron.png"/></p>
+<p><strong>Tomato</strong><br/><img src="http://www.colourlovers.com/img/CF440C/100/100/Spilled_Tomatoes.png"/></p>
+<p><strong>Misty Rose</strong><br/><img src="http://www.colourlovers.com/img/CEA999/100/100/Misty_Rose.png"/></p>
+<p><strong>Peach Puff</strong><br/><img src="http://www.colourlovers.com/img/D18C6F/100/100/peach_puff.png"/></p>
+<p><strong>Firebrick</strong><br/><img src="http://www.colourlovers.com/img/B94E20/100/100/firebrick.png"/></p>
+<p><strong>Ivory</strong><br/><img src="http://www.colourlovers.com/img/FDE5D8/100/100/Pale_Ivory.png"/></p>
+<p><strong>Light Salmon</strong><br/><img src="http://www.colourlovers.com/img/F38B53/100/100/light_salmon.png"/></p>
+<p><strong>Dark Orange</strong><br/><img src="http://www.colourlovers.com/img/AF4000/100/100/dark_orange.png"/></p>
+<p><strong>White</strong><br/><img src="http://www.colourlovers.com/img/EAE5E2/100/100/Glam_House_White.png"/></p>
+<p><strong>Moccasin</strong><br/><img src="http://www.colourlovers.com/img/D6AB8D/100/100/moccasins.png"/></p>
+<p><strong>Tan</strong><br/><img src="http://www.colourlovers.com/img/C67B42/100/100/Tan.png"/></p>
+<p><strong>Linen</strong><br/><img src="http://www.colourlovers.com/img/EBDCD0/100/100/linen.png"/></p>
+<p><strong>Light Yellow</strong><br/><img src="http://www.colourlovers.com/img/D78846/100/100/jodas.png"/></p>
+<p><strong>Papaya Whip</strong><br/><img src="http://www.colourlovers.com/img/D2AA80/100/100/papaya_whip.png"/></p>
+<p><strong>Chocolate</strong><br/><img src="http://www.colourlovers.com/img/99661F/100/100/cheap_chocolate.png"/></p>
+<p><strong>White Smoke</strong><br/><img src="http://www.colourlovers.com/img/DBC7A7/100/100/White_Smoke.png"/></p>
+<p><strong>Dark Khaki</strong><br/><img src="http://www.colourlovers.com/img/CEAD6C/100/100/dark_khaki.png"/></p>
+<p><strong>Orange</strong><br/><img src="http://www.colourlovers.com/img/FFB210/100/100/Campeche_Orange.png"/></p>
+<p><strong>Sienna</strong><br/><img src="http://www.colourlovers.com/img/996A03/100/100/Sienna.png"/></p>
+<p><strong>Gold</strong><br/><img src="http://www.colourlovers.com/img/685825/100/100/Almost_Gold.png"/></p>
+<p><strong>Goldenrod</strong><br/><img src="http://www.colourlovers.com/img/F1E09C/100/100/goldenrod.png"/></p>
+<p><strong>Yellow</strong><br/><img src="http://www.colourlovers.com/img/FACE02/100/100/Star_Shine_Yellow.png"/></p>
+<p><strong>Lemon Chiffon</strong><br/><img src="http://www.colourlovers.com/img/FADC44/100/100/Lemon_Chiffon.png"/></p>
+<p><strong>Yellow Green</strong><br/><img src="http://www.colourlovers.com/img/B4AA6D/100/100/nostalgy.png"/></p>
+<p><strong>Pale Goldenrod</strong><br/><img src="http://www.colourlovers.com/img/EDD01C/100/100/Pale_Goldenrod.png"/></p>
+<p><strong>Green Yellow</strong><br/><img src="http://www.colourlovers.com/img/B4AA6D/100/100/nostalgy.png"/></p>
+<p><strong>Dark Olive Green</strong><br/><img src="http://www.colourlovers.com/img/AFA856/100/100/Olive_Green_Dark.png"/></p>
+<p><strong>Blanched Almond</strong><br/><img src="http://www.colourlovers.com/img/F5F1C0/100/100/blanched_almond.png"/></p>
+<p><strong>Antique White</strong><br/><img src="http://www.colourlovers.com/img/F9F5C0/100/100/Safbi-_Antique_White.png"/></p>
+<p><strong>Dark Goldenrod</strong><br/><img src="http://www.colourlovers.com/img/888100/100/100/Dark_Goldenrod.png"/></p>
+<p><strong>Olive</strong><br/><img src="http://www.colourlovers.com/img/414127/100/100/dark_olive.png"/></p>
+<p><strong>Khaki</strong><br/><img src="http://www.colourlovers.com/img/535333/100/100/Eye_Light_Khaki.png"/></p>
+<p><strong>Light Goldenrod</strong><br/><img src="http://www.colourlovers.com/img/BACE24/100/100/Goldenrod_Lights.png"/></p>
+<p><strong>Honeydew</strong><br/><img src="http://www.colourlovers.com/img/CBD57B/100/100/Honeydew.png"/></p>
+<p><strong>Gainsboro</strong><br/><img src="http://www.colourlovers.com/img/C8CCB0/100/100/gainsboro.png"/></p>
+<p><strong>Cornsilk</strong><br/><img src="http://www.colourlovers.com/img/E8FC7F/100/100/cornsilk.png"/></p>
+<p><strong>Spring Green</strong><br/><img src="http://www.colourlovers.com/img/A6BD37/100/100/spring_green.png"/></p>
+<p><strong>Lime Green</strong><br/><img src="http://www.colourlovers.com/img/B2DE02/100/100/Splav.cz_lime_green.png"/></p>
+<p><strong>Mint Cream</strong><br/><img src="http://www.colourlovers.com/img/A3BB52/100/100/Mint_Ice_Cream.png"/></p>
+<p><strong>Web Green</strong><br/><img src="http://www.colourlovers.com/img/B6FA19/100/100/WEB_2.0_GREEN.png"/></p>
+<p><strong>Medium Spring Green</strong><br/><img src="http://www.colourlovers.com/img/76B40A/100/100/Medium_Spring_Green.png"/></p>
+<p><strong>Ghost White</strong><br/><img src="http://www.colourlovers.com/img/EFF7E2/100/100/Ghost_White.png"/></p>
+<p><strong>Lime</strong><br/><img src="http://www.colourlovers.com/img/A1FA41/100/100/Lime_Popsicle.png"/></p>
+<p><strong>Chartreuse</strong><br/><img src="http://www.colourlovers.com/img/558822/100/100/Lucky_Chartreuse.png"/></p>
+<p><strong>Floral White</strong><br/><img src="http://www.colourlovers.com/img/AEFF78/100/100/White_Floral.png"/></p>
+<p><strong>Pale Green</strong><br/><img src="http://www.colourlovers.com/img/D5FDBA/100/100/Pale_Green.png"/></p>
+<p><strong>Green</strong><br/><img src="http://www.colourlovers.com/img/69974B/100/100/Grass_is_Green.png"/></p>
+<p><strong>Dark Green</strong><br/><img src="http://www.colourlovers.com/img/4A6440/100/100/dark_green.png"/></p>
+<p><strong>Olive Drab</strong><br/><img src="http://www.colourlovers.com/img/618852/100/100/olive_drab.png"/></p>
+<p><strong>Sea Green</strong><br/><img src="http://www.colourlovers.com/img/C4FFBB/100/100/mermaid_in_green_sea.png"/></p>
+<p><strong>Light Green</strong><br/><img src="http://www.colourlovers.com/img/D2E1D0/100/100/shattered_dreams.png"/></p>
+<p><strong>Wheat</strong><br/><img src="http://www.colourlovers.com/img/0AC00A/100/100/Wheat_Field.png"/></p>
+<p><strong>Peru</strong><br/><img src="http://www.colourlovers.com/img/6C836C/100/100/Peru_Earthquake.png"/></p>
+<p><strong>Forest Green</strong><br/><img src="http://www.colourlovers.com/img/283628/100/100/Faded_forest_green.png"/></p>
+<p><strong>Medium Sea Green</strong><br/><img src="http://www.colourlovers.com/img/3CB471/100/100/Medium_Green_Sea.png"/></p>
+<p><strong>Lawn Green</strong><br/><img src="http://www.colourlovers.com/img/00803E/100/100/Diebenkorn_Green.png"/></p>
+<p><strong>Light Cyan</strong><br/><img src="http://www.colourlovers.com/img/AFFFD7/100/100/Light_Cyan.png"/></p>
+<p><strong>Pale Turquoise</strong><br/><img src="http://www.colourlovers.com/img/A0F5D3/100/100/Pale_Turquoise.png"/></p>
+<p><strong>Light Coral</strong><br/><img src="http://www.colourlovers.com/img/08C998/100/100/Corals_light_blue.png"/></p>
+<p><strong>Medium Turquoise</strong><br/><img src="http://www.colourlovers.com/img/64AFA1/100/100/Smoky_turquoise.png"/></p>
+<p><strong>Cyan</strong><br/><img src="http://www.colourlovers.com/img/E1FEF9/100/100/Faina_cyan.png"/></p>
+<p><strong>Light Sea Green</strong><br/><img src="http://www.colourlovers.com/img/78CCBF/100/100/Light_Sea_Green.png"/></p>
+<p><strong>Dark Turquoise</strong><br/><img src="http://www.colourlovers.com/img/1C8175/100/100/dark_turquoise.png"/></p>
+<p><strong>Slate Blue</strong><br/><img src="http://www.colourlovers.com/img/6E9292/100/100/Blue-Eyed_Slate.png"/></p>
+<p><strong>Teal</strong><br/><img src="http://www.colourlovers.com/img/1C5D5F/100/100/dark_teal.png"/></p>
+<p><strong>Turquoise</strong><br/><img src="http://www.colourlovers.com/img/468B91/100/100/Dead_Turquoise.png"/></p>
+<p><strong>Dark Cyan</strong><br/><img src="http://www.colourlovers.com/img/13282B/100/100/Aquabyss.png"/></p>
+<p><strong>Light Blue</strong><br/><img src="http://www.colourlovers.com/img/B3F0FC/100/100/Pretty_Light_Blue.png"/></p>
+<p><strong>Seashell</strong><br/><img src="http://www.colourlovers.com/img/8AB4C0/100/100/seashells_seashells.png"/></p>
+<p><strong>Dark Sea Green</strong><br/><img src="http://www.colourlovers.com/img/25525F/100/100/dark_sea_green.png"/></p>
+<p><strong>Navy Blue</strong><br/><img src="http://www.colourlovers.com/img/102E38/100/100/navy_blue.png"/></p>
+<p><strong>Deep Sky Blue</strong><br/><img src="http://www.colourlovers.com/img/7FBED6/100/100/deep_blue_sky.png"/></p>
+<p><strong>Medium Blue</strong><br/><img src="http://www.colourlovers.com/img/466A7A/100/100/blue_journey.png"/></p>
+<p><strong>Powder Blue</strong><br/><img src="http://www.colourlovers.com/img/D1E4EE/100/100/powder_blue.png"/></p>
+<p><strong>Light Sky Blue</strong><br/><img src="http://www.colourlovers.com/img/BAD1E1/100/100/Eteris.png"/></p>
+<p><strong>Indigo</strong><br/><img src="http://www.colourlovers.com/img/115D97/100/100/hypnotic_indigo.png"/></p>
+<p><strong>Silver</strong><br/><img src="http://www.colourlovers.com/img/B5C0C9/100/100/Monotonous_Silver.png"/></p>
+<p><strong>Snow</strong><br/><img src="http://www.colourlovers.com/img/D3E3F1/100/100/Snow_blue.png"/></p>
+<p><strong>Sky Blue</strong><br/><img src="http://www.colourlovers.com/img/007DF0/100/100/Sky_Blue.png"/></p>
+<p><strong>Light Steel Blue</strong><br/><img src="http://www.colourlovers.com/img/B0C5DE/100/100/Light_Steel_Blue.png"/></p>
+<p><strong>Blue</strong><br/><img src="http://www.colourlovers.com/img/091D38/100/100/night_blue.png"/></p>
+<p><strong>Alice Blue</strong><br/><img src="http://www.colourlovers.com/img/6786B6/100/100/alice_blue_eyes.png"/></p>
+<p><strong>Dark Slate Blue</strong><br/><img src="http://www.colourlovers.com/img/232E40/100/100/Widow.png"/></p>
+<p><strong>Steel Blue</strong><br/><img src="http://www.colourlovers.com/img/74829B/100/100/Steel_Blue.png"/></p>
+<p><strong>Cadet Blue</strong><br/><img src="http://www.colourlovers.com/img/B2B8C4/100/100/Cadet_Blue.png"/></p>
+<p><strong>Cornflower</strong><br/><img src="http://www.colourlovers.com/img/464F91/100/100/Cornflower_Blue.png"/></p>
+<p><strong>Midnight Blue</strong><br/><img src="http://www.colourlovers.com/img/222870/100/100/Midnight_Blue.png"/></p>
+<p><strong>Dark Blue</strong><br/><img src="http://www.colourlovers.com/img/080C3A/100/100/dark_blue.png"/></p>
+<p><strong>Blue Violet</strong><br/><img src="http://www.colourlovers.com/img/444AF3/100/100/violet-blue.png"/></p>
+<p><strong>Dodger Blue</strong><br/><img src="http://www.colourlovers.com/img/2424BD/100/100/dodger_blue.png"/></p>
+<p><strong>Violet</strong><br/><img src="http://www.colourlovers.com/img/41396A/100/100/violet_crumble.png"/></p>
+<p><strong>Royal Blue</strong><br/><img src="http://www.colourlovers.com/img/361AA7/100/100/Royale_Blue.png"/></p>
+<p><strong>Lavender Blush</strong><br/><img src="http://www.colourlovers.com/img/D1C5EC/100/100/lavender_blush.png"/></p>
+<p><strong>Web Purple</strong><br/><img src="http://www.colourlovers.com/img/E5B0FF/100/100/web_purple.png"/></p>
+<p><strong>Thistle</strong><br/><img src="http://www.colourlovers.com/img/761E9F/100/100/thistle.png"/></p>
+<p><strong>Plum</strong><br/><img src="http://www.colourlovers.com/img/391C42/100/100/plums_or_poles_only.png"/></p>
+<p><strong>Medium Orchid</strong><br/><img src="http://www.colourlovers.com/img/B542CF/100/100/Medium_Orchid.png"/></p>
+<p><strong>Rebecca Purple</strong><br/><img src="http://www.colourlovers.com/img/9106A0/100/100/rebecca_purple.png"/></p>
+<p><strong>Light Pink</strong><br/><img src="http://www.colourlovers.com/img/FBA1FF/100/100/Light_Pink.png"/></p>
+<p><strong>Medium Purple</strong><br/><img src="http://www.colourlovers.com/img/BD23BD/100/100/Before_light.png"/></p>
+<p><strong>Dark Orchid</strong><br/><img src="http://www.colourlovers.com/img/770073/100/100/dark_orchid.png"/></p>
+<p><strong>Purple</strong><br/><img src="http://www.colourlovers.com/img/CF73C3/100/100/Dreamy_purple.png"/></p>
+<p><strong>Magenta</strong><br/><img src="http://www.colourlovers.com/img/D36BC4/100/100/magenta.png"/></p>
+<p><strong>Dark Violet</strong><br/><img src="http://www.colourlovers.com/img/470934/100/100/Dark_violet.png"/></p>
+<p><strong>Orchid</strong><br/><img src="http://www.colourlovers.com/img/C7419A/100/100/Natsuki_Orchid.png"/></p>
+<p><strong>Web Maroon</strong><br/><img src="http://www.colourlovers.com/img/3E1730/100/100/Web_of_Dawn_Maroon.png"/></p>
+<p><strong>Dark Magenta</strong><br/><img src="http://www.colourlovers.com/img/DF38A2/100/100/Rosey_Magenta.png"/></p>
+<p><strong>Pink</strong><br/><img src="http://www.colourlovers.com/img/BC1C74/100/100/Secret_Pink♦.png"/></p>
+<p><strong>Medium Violet Red</strong><br/><img src="http://www.colourlovers.com/img/CC106E/100/100/Medium_Violet_Red.png"/></p>
+<p><strong>Lavender</strong><br/><img src="http://www.colourlovers.com/img/6B1D42/100/100/Lavender_Lavatory.png"/></p>
+<p><strong>Fuschia</strong><br/><img src="http://www.colourlovers.com/img/D40055/100/100/fuschia-prime.png"/></p>
+<p><strong>Hot Pink</strong><br/><img src="http://www.colourlovers.com/img/D4356B/100/100/Hot_Pink_Lips.png"/></p>
+<p><strong>Deep Pink</strong><br/><img src="http://www.colourlovers.com/img/F33270/100/100/deep_pink.png"/></p>
+<p><strong>Pale Violet Red</strong><br/><img src="http://www.colourlovers.com/img/E6B8C6/100/100/Kinetic_Spark.png"/></p>
+<p><strong>Maroon</strong><br/><img src="http://www.colourlovers.com/img/812336/100/100/Coral_Maroon.png"/></p>
+<p><strong>Dark Red</strong><br/><img src="http://www.colourlovers.com/img/950921/100/100/dark_red.png"/></p>
+<p><strong>Rosy Brown</strong><br/><img src="http://www.colourlovers.com/img/B17078/100/100/Rosie_Brown.png"/></p>
